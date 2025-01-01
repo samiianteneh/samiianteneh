@@ -1,16 +1,17 @@
 ## Hi there 👋
-## Samuel Anteneh Abewa
+my name is ## Samuel Anteneh Abewa
 
 I'm an full-stack developer
 
-- 🔭 I’m currently working At IE NETWORK SOLUTION
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on IE Network Solutions [Selamnew Workspace](https://github.com/IE-Network-Solutions/organizational-structure-and-employee-information-frontend) , [SCM](https://github.com/IE-Network-Solutions/SCM-Front)
+- 🌱 I’m Certified React Developper
+- 🌱 I’m currently learning React Native
+- 👨‍💻 All of my projects are available at [https://github.com/samiianteneh](https://github.com/samiianteneh)
+- 💬 Ask me about **Laravel,Javascript,React,typescript,react query,zustand,SWR , Next js,Tailwindcss,Redux**,.
+- 📫 How to reach me at : **samiianteneh5@gmail.com**
+---
+
+<a href="https://www.linkedin.com/in/samuelanteneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ahmed-oumer-299a9a206" height="30" width="40" /></a>
 ---
 
 ### 🧰 Languages and Tools
