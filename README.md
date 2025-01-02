@@ -39,7 +39,7 @@ I'm an full-stack developer
 
 ![Samii's GitHub Streak](https://streak-stats.demolab.com?user=samiianteneh&theme=gruvbox&border_radius=4.5)
 
-![Samii's GitHub Streak](https://streak-stats.demolab.com?user=samiianteneh&theme=gruvbox&border_radius=4.5)
+![Samii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&theme=gruvbox&locale=en&layout=compact)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&locale=en&layout=compact" alt="samiianteneh" />
 
