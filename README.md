@@ -11,7 +11,7 @@ I'm an full-stack developer
 - 📫 How to reach me at : **samiianteneh5@gmail.com**
 ---
 
-<a href="https://www.linkedin.com/in/samuelanteneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ahmed-oumer-299a9a206" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuelanteneh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@samiianteneh" height="30" width="40" /></a>
 ---
 
 ### 🧰 Languages and Tools
