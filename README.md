@@ -76,5 +76,6 @@
 ![Samii's GitHub Streak](https://streak-stats.demolab.com?user=samiianteneh&theme=gruvbox&border_radius=4.5)<br /><br /><br />
 #
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&locale=en" alt="samiianteneh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiianteneh&" alt="samiianteneh" /></p>
 
 
