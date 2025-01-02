@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samuelanteneh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuelanteneh/" height="30" width="40" /></a>
 </p>
 <br />
-
+#
 ### <h3 align="left">🧰 Languages and Tools:</h3>
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -68,14 +68,11 @@
 
 
 <br />
-
+#
 ### 📊 Stats
 
 ![Samii's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&locale=en&layout=compact&theme=gruvbox)<br /><br /><br />
 ![Samii's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&theme=gruvbox)<br /><br /><br />
 ![Samii's GitHub Streak](https://streak-stats.demolab.com?user=samiianteneh&theme=gruvbox&border_radius=4.5)<br /><br /><br />
 #
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&locale=en" alt="samiianteneh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiianteneh&" alt="samiianteneh" /></p>
-
 
