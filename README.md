@@ -33,10 +33,14 @@ I'm an full-stack developer
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+### 📊 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedahmedoumer&show_icons=true&locale=en&layout=compact" alt="samiianteneh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&locale=en" alt="samiianteneh" /></p>
-[Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&theme=gruvbox)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiianteneh&" alt="samiianteneh" /></p>
