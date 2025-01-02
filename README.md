@@ -67,8 +67,7 @@
 
 
 <br />
-#
-### 📊 Stats
+ 📊 Stats
 
 ![Samii's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&locale=en&layout=compact&theme=gruvbox)<br /><br /><br />
 ![Samii's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&theme=gruvbox)<br /><br /><br />
