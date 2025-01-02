@@ -34,3 +34,9 @@ I'm an full-stack developer
 <br />
 
 #
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedahmedoumer&show_icons=true&locale=en&layout=compact" alt="samiianteneh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&locale=en" alt="samiianteneh" /></p>
+[Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&theme=gruvbox)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiianteneh&" alt="samiianteneh" /></p>
