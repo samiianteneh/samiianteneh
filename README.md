@@ -73,9 +73,9 @@
 
 ![Samii's GitHub stats](https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&theme=gruvbox)
 ![Samii's GitHub Streak](https://streak-stats.demolab.com?user=samiianteneh&theme=gruvbox&border_radius=4.5)
+![Samii's GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&locale=en&layout=compact" alt="samiianteneh" />
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&locale=en" alt="samiianteneh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&locale=en" alt="samiianteneh" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiianteneh&" alt="samiianteneh" />
 
