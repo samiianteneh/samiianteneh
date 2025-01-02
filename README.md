@@ -41,11 +41,11 @@ I'm an full-stack developer
 
 ![Samii's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&theme=gruvbox&locale=en&layout=compact)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&locale=en&layout=compact" alt="samiianteneh" />
+<!--<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samiianteneh&show_icons=true&locale=en&layout=compact" alt="samiianteneh" />
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samiianteneh&show_icons=true&locale=en" alt="samiianteneh" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiianteneh&" alt="samiianteneh" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samiianteneh&" alt="samiianteneh" />-->
 #
 <!--
 <details>
